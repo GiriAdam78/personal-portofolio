@@ -102,7 +102,7 @@ export default function ExperienceSection() {
           <div className="flex flex-col md:flex-row md:items-start md:justify-between">
             <div className="flex-1 flex items-center gap-2">
               <div>
-                <p className="font-medium dark:text-muted-foreground leading-relaxed mb-2">
+                <p className="font-medium dark:text-muted-foreground leading-relaxed mb-3">
                   03. Neptus Teknologi Indonesia - SOC Engineer Layer 1
                 </p>
                 <p className="dark:text-muted-foreground text-muted-foregorund text-balance text-sm">
@@ -165,7 +165,7 @@ export default function ExperienceSection() {
               <div>
                 <p className="dark:text-muted-foreground text-black text-sm mt-3">
                   {" "}
-                  Mar 2025 - May 2026
+                  May 2026 - Now
                 </p>
               </div>
             </div>
