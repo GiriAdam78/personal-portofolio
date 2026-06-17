@@ -125,7 +125,47 @@ export default function ExperienceSection() {
               <div>
                 <p className="dark:text-muted-foreground text-black text-sm mt-3">
                   {" "}
-                  Mar 2025 - Now
+                  Mar 2025 - May 2026
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="p-6 md:p-8 rounded-md border border-border bg-card/20">
+          <div className="flex flex-col md:flex-row md:items-start md:justify-between">
+            <div className="flex-1 flex items-center gap-2">
+              <div>
+                <p className="font-medium dark:text-muted-foreground leading-relaxed mb-2">
+                  04. Navios Evolusi Solusindo - Programmer
+                </p>
+                <p className="dark:text-muted-foreground text-muted-foregorund text-balance text-sm">
+                  Developing and maintaining web applications using CodeIgniter and
+                  Bootstrap framework. Building robust backend systems with
+                  clean architecture, implementing efficient database designs,
+                  and ensuring code quality through best practices. Collaborating
+                  with cross-functional teams to deliver high-performance,
+                  scalable solutions.
+                </p>
+                <div className="mt-3">
+                  <div className="flex flex-wrap gap-2 mt-3">
+                    <span className="rounded-full border border-border bg-card text-sm dark:text-white text-primary p-1 px-2 capitalize">
+                      Php Vanilla
+                    </span>
+                    <span className="rounded-full border border-border bg-card text-sm dark:text-white text-primary p-1 px-2 capitalize">
+                      Code Igniter
+                    </span>
+                    <span className="rounded-full border border-border bg-card text-sm dark:text-white text-primary p-1 px-2 capitalize">
+                      Bootstrap
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="flex items-center">
+              <div>
+                <p className="dark:text-muted-foreground text-black text-sm mt-3">
+                  {" "}
+                  Mar 2025 - May 2026
                 </p>
               </div>
             </div>
