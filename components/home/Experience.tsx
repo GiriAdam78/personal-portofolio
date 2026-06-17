@@ -98,7 +98,7 @@ export default function ExperienceSection() {
             </div>
           </div>
         </div>
-        <div className="p-6 md:p-8 rounded-md border border-border bg-card/20">
+        <div className="p-6 md:p-8 rounded-md border border-border bg-card/20 mb-2">
           <div className="flex flex-col md:flex-row md:items-start md:justify-between">
             <div className="flex-1 flex items-center gap-2">
               <div>
